@@ -7,6 +7,12 @@ asd
 asd
 end of body
 
+## Installation
+
+```bash
+$ go get github.com/user/repo
+```
+
 ## Contribute
 
 1. Fork it
