@@ -7,6 +7,7 @@ func hello(i int) string {
 }
 
 func main() {
+	fmt.Println(hello(0))
 	fmt.Println("Hello world")
 	fmt.Println(hello(1))
 	fmt.Println(hello(2))
