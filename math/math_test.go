@@ -14,3 +14,7 @@ func TestAdd(t *testing.T) {
 func TestSub(t *testing.T) {
 	assert.Equal(t, 1, math.Sub(3, 2))
 }
+
+func TestMul(t *testing.T) {
+	assert.Equal(t, 6, math.Mul(2, 3))
+}
